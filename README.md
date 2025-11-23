@@ -1,12 +1,12 @@
 The ISS constantly orbits Earth at about 28,000 km/h. This script allows you to check its live position at any moment.
 It’s a small and clear example of:
 
-Working with APIs
+1) Working with APIs
 
-Handling HTTP requests
+2) Handling HTTP requests
 
-Parsing JSON data
-
-Basic error handling in Python
-
-Ideal for beginners learning API basics.
+3) Parsing JSON data
+  
+4) Basic error handling in Python
+  
+5) Ideal for beginners learning API basics.
